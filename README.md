@@ -8,34 +8,27 @@ I started with a simple question:
 
 That question has shaped how I learn.
 
-Instead of collecting tutorials, I try to turn what I learn into something tangible: a project, a component, a website, or a better engineering decision.
+Instead of collecting tutorials, I turn what I learn into something tangible: a project, a component, a website, or a better engineering decision.
 
-Today, I'm focused on **frontend development, AI-assisted engineering, and building reliable web experiences** with modern JavaScript and TypeScript.
+I'm currently focused on **frontend development, TypeScript, React, Next.js, and AI-assisted engineering**, while gaining experience through real-world projects and frontend internships.
 
 ---
 
 ## 🧭 My Story
 
-I'm currently pursuing a Diploma in Computer Science & Technology at **Chattogram Polytechnic Institute, Bangladesh**.
+I'm pursuing a Diploma in Computer Science & Technology at **Chattogram Polytechnic Institute, Bangladesh**.
 
-My development journey has been mostly self-directed.
+My path into development has been mostly self-directed. I started with programming fundamentals, then moved into frontend development and began building projects to test what I was learning.
 
-I started by learning programming fundamentals, then moved into frontend development. Along the way, I built projects, broke things, debugged them, rewrote them, and gradually learned that writing code is only one part of being a developer.
+Along the way, I've learned that writing code is only part of the job.
 
-The bigger challenge is learning to:
+The harder part is understanding the problem, making good technical decisions, communicating clearly, responding to feedback, and improving an implementation after the first version works.
 
-* understand a problem before writing code
-* make interfaces usable, not merely functional
-* structure projects so they can evolve
-* communicate technical decisions clearly
-* accept feedback without becoming attached to the first solution
-* ship something real instead of endlessly preparing to ship
-
-That's the direction I'm continuing to pursue.
+That's the kind of developer I'm working toward becoming.
 
 ---
 
-## 🛠️ What I'm Working With
+## 🛠️ Tech
 
 **Frontend**
 
@@ -43,24 +36,23 @@ That's the direction I'm continuing to pursue.
 
 **Currently exploring**
 
-`Next.js` · `AI-assisted development` · `modern frontend architecture`
+`Next.js` · `AI-assisted development` · `frontend architecture`
 
 **Tools**
 
-`Git` · `GitHub` · `VS Code` · `Figma`
+`Git` · `GitHub` · `Figma` · `VS Code`
 
 I'm less interested in memorizing a technology list and more interested in understanding **when and why to use a tool**.
 
 ---
 
-## 🚀 Things I've Built
+## 🚀 Selected Projects
 
 ### 🎮 Assembly: Endgame
 
 A word-guessing game built with React and TypeScript.
 
-**What it taught me:**
-State management, component architecture, TypeScript, conditional rendering, and turning a relatively simple idea into a polished interactive experience.
+**Learned:** state management, component architecture, conditional rendering, and TypeScript.
 
 ---
 
@@ -68,23 +60,21 @@ State management, component architecture, TypeScript, conditional rendering, and
 
 A dice game built while practicing React and TypeScript.
 
-**What it taught me:**
-Reusable components, state updates, event handling, and translating a game mechanic into a clean UI.
+**Learned:** reusable components, state updates, event handling, and translating game mechanics into a clean interface.
 
 ---
 
 ### 🧠 Quizzical
 
-A trivia application that retrieves questions from an external API.
+A trivia application that retrieves questions from an external API and turns them into an interactive quiz.
 
-**What it taught me:**
-Working with APIs, asynchronous JavaScript, data transformation, loading states, and building an interface around external data.
+**Learned:** API integration, asynchronous JavaScript, data transformation, loading states, and application state.
 
 ---
 
 ### 🎬 Movie Projects
 
-I've also built movie discovery and watchlist applications while learning how to work with APIs, application state, reusable components, and user interactions.
+I've also built movie discovery and watchlist applications while learning to work with external APIs, reusable components, application state, and user interactions.
 
 Each project started as a learning exercise.
 
@@ -98,86 +88,72 @@ I follow a simple loop:
 
 **Learn → Build → Break → Debug → Get Feedback → Improve → Repeat**
 
-I don't consider a course certificate the finish line.
+I don't consider finishing a course the finish line.
 
 The real test is what I can build **without following the tutorial step by step**.
 
-That's why I try to convert what I learn into projects and then revisit those projects with a more critical eye.
+When I encounter something I don't understand, I research it. When an implementation is weak, I revisit it. When I receive feedback, I try to understand the reasoning behind it.
+
+The goal isn't to know everything.
+
+It's to become better at figuring things out.
 
 ---
 
-## 🤝 Why Work With Me?
+## 🤝 How I Work
 
 I'm early in my career, so I won't pretend to have decades of experience.
 
-What I can offer is something more concrete:
+What I can offer is a serious approach to learning and execution.
 
-**I take learning seriously.**
+* I research when I don't know something.
+* I care about understanding the problem before writing code.
+* I use feedback to improve rather than defend the first solution.
+* I aim to write code that can be understood and maintained.
+* I care about shipping, not just preparing to ship.
 
-When I don't know something, I research it.
-
-When my implementation is weak, I improve it.
-
-When someone gives me feedback, I try to understand the reasoning behind it instead of simply changing the code.
-
-And when I commit to building something, my goal is to leave it better than I found it.
-
-I'm currently gaining experience through frontend development internships and real-world projects, where I'm learning how development works beyond personal projects:
+Through frontend internships and real-world projects, I'm learning how development works beyond personal projects:
 
 **requirements → communication → implementation → feedback → iteration → delivery**
 
 ---
 
-## 🌱 What I'm Building Toward
+## 🌱 What's Next
 
 My long-term goal is to become a strong software engineer who can take an idea from:
 
 **problem → design → implementation → deployment → iteration**
 
-For now, that means becoming exceptionally good at the fundamentals:
+For now, I'm focused on strengthening the fundamentals:
 
 * JavaScript & TypeScript
 * React & Next.js
-* responsive UI development
-* accessibility
+* responsive and accessible interfaces
 * frontend architecture
 * APIs and data handling
-* Git & collaboration
+* Git and collaboration
 * AI-assisted engineering
-* writing maintainable code
+* maintainable code
 
 The stack will change.
 
-The fundamentals won't.
+**The fundamentals won't.**
 
 ---
 
-## 📚 Currently Learning
+## 📚 Right Now
 
-* TypeScript
-* Next.js
-* Tailwind CSS
-* AI-assisted frontend engineering
-* Building production-quality web interfaces
-* Better software architecture and engineering practices
+**Learning:** TypeScript · Next.js · Tailwind CSS · AI-assisted frontend engineering
 
----
+**Building:** Real-world frontend projects through internships and personal projects.
 
-## 🔨 Currently Building
-
-I'm working on real-world frontend projects and internships where I'm learning how to turn requirements into responsive, maintainable websites.
-
-This GitHub profile will increasingly become a record of that progression — **not just what I know, but what I've actually built.**
+This GitHub profile is becoming a record of that progression: not just what I know, but what I've actually built.
 
 ---
 
-## 📊 GitHub
+## 💻 GitHub
 
-I use GitHub as more than a place to store code.
-
-It's my **public engineering notebook**.
-
-You can see the projects I've built, the technologies I've experimented with, and how my approach changes over time.
+**GitHub is my public engineering notebook: a record of what I've built, what I've learned, and how my approach evolves.**
 
 [**Explore my repositories →**](https://github.com/anik-hindu)
 
@@ -196,12 +172,10 @@ I'm interested in:
 * collaboration
 * learning from experienced developers
 
-If you're building something interesting, I'd be happy to talk.
+[**GitHub**](https://github.com/anik-hindu) · [**Portfolio**](https://anik-hindu.github.io/portfolio/)
 
 ---
 
 ### One project at a time.
 
 **Learn something. Build something. Ship something. Improve it.**
-
-That's the story I'm writing here.
