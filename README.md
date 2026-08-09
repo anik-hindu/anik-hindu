@@ -1,6 +1,6 @@
 # Hi, I'm Anik 👋
 
-### Frontend Developer in the making. Learning by building, shipping, and improving.
+### Frontend Developer building with TypeScript, React, and modern web technologies.
 
 I started with a simple question:
 
@@ -10,7 +10,7 @@ That question has shaped how I learn.
 
 Instead of collecting tutorials, I turn what I learn into something tangible: a project, a component, a website, or a better engineering decision.
 
-I'm currently focused on **frontend development, TypeScript, React, Next.js, and AI-assisted engineering**, while gaining experience through real-world projects and frontend internships.
+I'm currently building my frontend development skills through **TypeScript, React, Tailwind CSS, and Next.js**, while gaining experience through real-world projects and frontend internships.
 
 ---
 
@@ -20,9 +20,9 @@ I'm pursuing a Diploma in Computer Science & Technology at **Chattogram Polytech
 
 My path into development has been mostly self-directed. I started with programming fundamentals, then moved into frontend development and began building projects to test what I was learning.
 
-Along the way, I've learned that writing code is only part of the job.
+Along the way, I learned that writing code is only part of the job.
 
-The harder part is understanding the problem, making good technical decisions, communicating clearly, responding to feedback, and improving an implementation after the first version works.
+The harder part is understanding the problem, making thoughtful technical decisions, communicating clearly, responding to feedback, and improving an implementation after the first version works.
 
 That's the kind of developer I'm working toward becoming.
 
@@ -30,11 +30,11 @@ That's the kind of developer I'm working toward becoming.
 
 ## 🛠️ Tech
 
-**Frontend**
+**Building with**
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
 
-**Currently exploring**
+**Exploring**
 
 `Next.js` · `AI-assisted development` · `frontend architecture`
 
@@ -42,7 +42,7 @@ That's the kind of developer I'm working toward becoming.
 
 `Git` · `GitHub` · `Figma` · `VS Code`
 
-I'm less interested in memorizing a technology list and more interested in understanding **when and why to use a tool**.
+I'm less interested in memorizing a list of technologies and more interested in understanding **when and why to use a tool**.
 
 ---
 
@@ -54,13 +54,17 @@ A word-guessing game built with React and TypeScript.
 
 **Learned:** state management, component architecture, conditional rendering, and TypeScript.
 
+[**View repository →**](https://github.com/anik-hindu/assembly-endgame)
+
 ---
 
 ### 🎲 Tenzies
 
-A dice game built while practicing React and TypeScript.
+A dice game built with React and TypeScript.
 
 **Learned:** reusable components, state updates, event handling, and translating game mechanics into a clean interface.
+
+[**View repository →**](https://github.com/anik-hindu/tenzies)
 
 ---
 
@@ -70,9 +74,11 @@ A trivia application that retrieves questions from an external API and turns the
 
 **Learned:** API integration, asynchronous JavaScript, data transformation, loading states, and application state.
 
+[**View repository →**](https://github.com/anik-hindu/quizzical)
+
 ---
 
-### 🎬 Movie Projects
+### 🎬 Movie Applications
 
 I've also built movie discovery and watchlist applications while learning to work with external APIs, reusable components, application state, and user interactions.
 
@@ -96,7 +102,7 @@ When I encounter something I don't understand, I research it. When an implementa
 
 The goal isn't to know everything.
 
-It's to become better at figuring things out.
+**It's to become better at figuring things out.**
 
 ---
 
@@ -106,8 +112,8 @@ I'm early in my career, so I won't pretend to have decades of experience.
 
 What I can offer is a serious approach to learning and execution.
 
+* I understand the problem before writing code.
 * I research when I don't know something.
-* I care about understanding the problem before writing code.
 * I use feedback to improve rather than defend the first solution.
 * I aim to write code that can be understood and maintained.
 * I care about shipping, not just preparing to ship.
@@ -124,7 +130,7 @@ My long-term goal is to become a strong software engineer who can take an idea f
 
 **problem → design → implementation → deployment → iteration**
 
-For now, I'm focused on strengthening the fundamentals:
+For now, I'm strengthening the fundamentals:
 
 * JavaScript & TypeScript
 * React & Next.js
@@ -147,13 +153,13 @@ The stack will change.
 
 **Building:** Real-world frontend projects through internships and personal projects.
 
-This GitHub profile is becoming a record of that progression: not just what I know, but what I've actually built.
+This GitHub profile is a record of that progression: **what I've built, what I've learned, and how my approach has evolved.**
 
 ---
 
 ## 💻 GitHub
 
-**GitHub is my public engineering notebook: a record of what I've built, what I've learned, and how my approach evolves.**
+**GitHub is my public engineering notebook.**
 
 [**Explore my repositories →**](https://github.com/anik-hindu)
 
@@ -172,7 +178,7 @@ I'm interested in:
 * collaboration
 * learning from experienced developers
 
-[**GitHub**](https://github.com/anik-hindu) · [**Portfolio**](https://anik-hindu.github.io/portfolio/)
+[**Portfolio →**](https://anik-hindu.github.io/portfolio/)
 
 ---
 
